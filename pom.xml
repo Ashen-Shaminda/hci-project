@@ -16,7 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>18</maven.compiler.source>
         <maven.compiler.target>18</maven.compiler.target>
-        <exec.mainClass>com.login.loginform.LoginForm</exec.mainClass>
+        <exec.mainClass>login.LoginForm</exec.mainClass>
     </properties>
     <name>HCIProject</name>
 </project>

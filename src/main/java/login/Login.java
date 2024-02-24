@@ -1,4 +1,4 @@
-package com.login.loginform;
+package login;
 
 import java.awt.HeadlessException;
 import java.sql.Connection;
